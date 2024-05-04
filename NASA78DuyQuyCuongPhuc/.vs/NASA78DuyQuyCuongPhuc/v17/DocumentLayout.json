@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA45525-80C8-4F78-B158-8747A0A9083A}|ChuyenXe1\\ChuyenXe1.vcxproj|F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\ChuyenXe1\\ChuyenXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AA45525-80C8-4F78-B158-8747A0A9083A}|ChuyenXe1\\ChuyenXe1.vcxproj|solutionrelative:ChuyenXe1\\ChuyenXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA45525-80C8-4F78-B158-8747A0A9083A}|ChuyenXe1\\ChuyenXe1.vcxproj|F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\ChuyenXe1\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AA45525-80C8-4F78-B158-8747A0A9083A}|ChuyenXe1\\ChuyenXe1.vcxproj|solutionrelative:ChuyenXe1\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "head.h",
+              "DocumentMoniker": "F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\ChuyenXe1\\head.h",
+              "RelativeDocumentMoniker": "ChuyenXe1\\head.h",
+              "ToolTip": "F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\ChuyenXe1\\head.h",
+              "RelativeToolTip": "ChuyenXe1\\head.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T08:05:44.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChuyenXe.cpp",
+              "DocumentMoniker": "F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\ChuyenXe1\\ChuyenXe.cpp",
+              "RelativeDocumentMoniker": "ChuyenXe1\\ChuyenXe.cpp",
+              "ToolTip": "F:\\Moc\\Hoc tap\\OOP\\NASA78DuyQuyCuongPhuc\\ChuyenXe1\\ChuyenXe.cpp",
+              "RelativeToolTip": "ChuyenXe1\\ChuyenXe.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T13:56:06.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

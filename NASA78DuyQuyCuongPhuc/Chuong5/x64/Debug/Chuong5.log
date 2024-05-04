@@ -1,0 +1,29 @@
+﻿  Cau_a.cpp
+  Cau_b.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'Cau_a.cpp')
+  
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'Cau_b.cpp')
+  
+  Cau_c.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'Cau_c.cpp')
+  
+  Cau_d.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'Cau_d.cpp')
+  
+  Cau_e.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'Cau_e.cpp')
+  
+  Cau_f.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'Cau_f.cpp')
+  
+  duAnHoanChinh.cpp
+F:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.40.33521\include\yvals.h(20,10): error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  (compiling source file 'duAnHoanChinh.cpp')
+  
+  Generating Code...
